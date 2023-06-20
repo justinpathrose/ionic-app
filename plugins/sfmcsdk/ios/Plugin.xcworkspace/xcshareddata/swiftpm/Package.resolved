@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sfmc-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/salesforce-marketingcloud/sfmc-sdk-ios",
+      "state" : {
+        "revision" : "0b7c160c31c7d685c4d7e795c87017ce1ec09454",
+        "version" : "1.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}
